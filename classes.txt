@@ -1,0 +1,14 @@
+Classes: allow us to logically group our data and functions in a way that's easy to reuse and build upon if need be.
+
+Class Instance: is a concrete occurrence of any object. In class-based programming, objects are created from classes by subroutines called constructors, and destroyed by destructors. An object is an instance of a class, and may be called a class instance or class object; instantiation is then also known as construction. 
+
+Instance Variables: hold data that are unique to each instance
+
+Class Variables: variables that are shared amongst all instances of a class
+
+Method: A method is a function that takes a class instance as its first parameter. Methods are members of classes.
+
+Class Method: a function that takes the class instead of a class instance as it's first parameter.
+
+Static Methods: pass niether a class instance or the class itself but has some logical connection to the class
+
